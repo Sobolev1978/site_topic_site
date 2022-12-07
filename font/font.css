@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Moloko';
+  src: url('Moloko.eot');
+  src: url('Moloko.eot?#iefix') format('embedded-opentype'),
+    url('Moloko.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
