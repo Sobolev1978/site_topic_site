@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-$myaddr = "dneprovscki@yandex.ru";
+$myaddr = "d@yandex.ru";
 
 
 if (isset($_POST['call-control']) && $_POST['call-control'] == 0){
